@@ -13,7 +13,7 @@ Bare minimum hyprland setup script for `OpenSuse Tumbleweed KDE Plasma DE`, user
 Clone the repo and launch `setup.sh` script
 
 ```bash
-git clone --depth=1 https://github.com/aDifferentBook/opensuse-tw-hyprland-setup.git
+git clone --depth=1 https://github.com/aDifferentBook/opensuse-hyprland.git
 cd opensuse-tw-hyprland-setup
 chmod +x setup.sh
 ./setup.sh
